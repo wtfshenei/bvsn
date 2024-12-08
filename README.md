@@ -1,3 +1,5 @@
+![Archived](https://img.shields.io/badge/status-archived-red)
+
 # BvsN
 
 ### Old School Browser Wargame
